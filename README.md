@@ -6,9 +6,7 @@ Welcome to the Speedometer project! This project utilizes Python and the Pillow 
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [HTML and CSS Example](#html-and-css-example)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Requirements
 
